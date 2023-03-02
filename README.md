@@ -2,7 +2,7 @@
 What is the project ?\
 making a wireframe website using HTML
 
-what is the uesd tools?
+what are the uesd tools?
 + Visual Studio Code
 + Github
 
